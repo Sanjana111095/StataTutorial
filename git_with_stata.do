@@ -7,4 +7,4 @@
 ! git push origin master
 ! git add git_with_stata.do
 ! git commit -m "adding git command do file"
-! git push
+! git push origin master
